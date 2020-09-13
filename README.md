@@ -1,2 +1,2 @@
 # weather-app
-Live Weather App Using Tkinter and weather api
+Live Weather App Using Gtk and weather api
